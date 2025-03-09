@@ -14,7 +14,7 @@
 ## Course Work, Year 2
 
 | Course Name | Difficulty |
-| ___________ | __________ |
+| ----------- | ---------- |
 | DSA         | Hard   |
 | Microprocessor| Hard |
 | DBMS        | Easy |
