@@ -2,8 +2,8 @@
 ###### MINNAH KHAN 
 ### This is the starting of my Github Journey,
 
-> I'm going to make my first project here
-> Learning about Guthub was a very nice experience...
+> I'm going to make my first project here...
+>> Learning about Guthub was a very nice experience...
 
 
 ##Tasks 
